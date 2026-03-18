@@ -2,8 +2,9 @@
 # AUTHOR: duangduang55
 # REPO: https://github.com/duangduang55/clash-config/
 # UPDATED: 2025-10-28 22:15:09
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,www.notion.so
 DOMAIN-SUFFIX,amazonaws.com
